@@ -1,0 +1,4 @@
+question:
+  css: "p,h3,span.font-semibold"
+  multiple: true
+  type: Text
