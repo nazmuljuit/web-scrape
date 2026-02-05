@@ -1,4 +1,4 @@
 question:
-  css: "p,h3,span.font-semibold"
+  css: "div.p-2,label.d-flex"
   multiple: true
   type: Text
